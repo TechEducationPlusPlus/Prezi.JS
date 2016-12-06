@@ -164,3 +164,18 @@ a:active
 	border-left:  4px solid white;
 	border-right: 4px solid white;
 }
+
+ul.resources
+{
+
+}
+
+ul.resources>li
+{
+
+}
+
+ul.resources>li>.name
+{
+	font-weight: bold;
+}

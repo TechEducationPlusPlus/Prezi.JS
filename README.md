@@ -1,1 +1,1 @@
-# reveal.js
+# Prezi.JS
